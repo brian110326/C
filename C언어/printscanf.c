@@ -1,8 +1,13 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello world\n");
+	int age = 12;
+	printf("%d\n", age);
+	age = 13;
+	printf("%d\n", age);
 	return 0;
-	//ㅇㄹㅇ
-	//ㅇㄹ
+
+	/*
+	* 이것은 주석입니다
+	*/
 }
