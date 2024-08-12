@@ -18,5 +18,14 @@
     <ClCompile Include="printscanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="경찰관.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="loop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
